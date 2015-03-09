@@ -5,6 +5,9 @@ cv_breath_one
   * 橋本典久【NOTATION : 鏡の中の箱】
     * http://www2.kb2-unet.ocn.ne.jp/ask/2015/hashimoto_norihisa.html
 
+  * 個展終了しました | Hashimoto Norihisa Works
+    * http://zeroworks.jp/information/2015/03/notation2015/
+
 展示されていた作品の中で[Breath, one]という作品に感銘を受けたので、
 その個人的な感想をC++とOpenCVを使って書いてみた。
 

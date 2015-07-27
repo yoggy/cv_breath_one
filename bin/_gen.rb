@@ -4,7 +4,7 @@ require 'pp'
 
 path = "/path/to/movies/*.mp4"
 
-files = Dir.glob(path)
+files = Dir.glob(path).sort
 
 files.each do |f|
   basename = File.basename(f, ".mp4")

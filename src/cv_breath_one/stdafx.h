@@ -10,11 +10,7 @@
 #include <opencv2/highgui/highgui.hpp>
 
 #ifdef _DEBUG
-#pragma comment(lib, "opencv_core2410d.lib")
-#pragma comment(lib, "opencv_imgproc2410d.lib")
-#pragma comment(lib, "opencv_highgui2410d.lib")
+#pragma comment(lib, "opencv_world300d.lib")
 #else
-#pragma comment(lib, "opencv_core2410.lib")
-#pragma comment(lib, "opencv_imgproc2410.lib")
-#pragma comment(lib, "opencv_highgui2410.lib")
+#pragma comment(lib, "opencv_world300.lib")
 #endif
